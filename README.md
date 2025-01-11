@@ -157,12 +157,6 @@ void loop() {
 - The UDA1334 module outputs a line-level signal. For best results, connect it to an amplifier or a car AUX input.
 - You can change the Bluetooth device name by modifying the `bluetoothDeviceName` variable in the code.
 
----
-
-## Future Improvements
-- Add support for volume control via hardware buttons.
-- Implement an OLED display to show song information.
-- Add EQ or sound effects.
 
 ---
 
