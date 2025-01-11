@@ -16,7 +16,7 @@ This project, named **BlueSound ESP**, demonstrates how to use an **ESP32 Devkit
 ## Components
 | Component       | Description                        |
 |-----------------|------------------------------------|
-| ESP32 Devkit V4 | Microcontroller with built-in Bluetooth support |
+| ESP32    	      | Microcontroller with built-in Bluetooth support |
 | UDA1334         | Low-power stereo DAC for high-quality audio |
 | AUX cable       | Connects the UDA1334 module to your car's AUX input |
 | Power supply    | 5V USB power supply for the ESP32 |
